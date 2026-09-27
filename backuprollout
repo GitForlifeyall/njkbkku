@@ -1,0 +1,35 @@
+ll 4 backup steps have completed successfully. Your entire environment is fully snapshotted.
+
+Backup Inventory Summary
+1. Kernel, Flags & WSL Config
+Compiled Kernel Binary: C:\Users\khann\redroid_snapshot_backup\bzImage-audio.working (14.9 MB)
+All Kernel Compilation Flags: C:\Users\khann\redroid_snapshot_backup\kernel_flags.config (213 KB, contains all 6,000+ exact CONFIG_ANDROID_BINDER_*, CONFIG_ASHMEM, audio, and cgroup options)
+Host WSL Configuration: C:\Users\khann\redroid_snapshot_backup\.wslconfig.working
+2. Binder IPC & Setup
+Startup Script: C:\Users\khann\redroid_snapshot_backup\setup-binder.sh.working
+Live Binder Node State: C:\Users\khann\redroid_snapshot_backup\binder_nodes_state.txt
+3. Redroid Android Container & Persistent Data
+Frozen Docker Image: redroid-instagram:working-golden-backup (Image ID 189397d076d0)
+Cloned Docker Volume: redroid-account-01-data-backup (Live internal replica of all accounts, Morphe settings, and microG architecture fixes)
+Compressed Archive Export: C:\Users\khann\redroid_snapshot_backup\android_data_volume.tar.gz (519 MB standalone file)
+4. Automation Workflow Code
+Scripts & Configs Snapshot: C:\Users\khann\redroid_snapshot_backup\workflow_code\ (Includes 
+
+upload_short.py
+, 
+
+redroid.ps1
+, utilities, and guides)
+60-Second Rollback Reference
+If any memory optimization needs to be reverted:
+
+powershell
+# 1. Revert container data
+wsl -d Ubuntu -u root -e docker stop redroid-01
+wsl -d Ubuntu -u root -e docker rm redroid-01
+wsl -d Ubuntu -u root -e docker run --rm -v redroid-account-01-data-backup:/from -v redroid-account-01-data:/to alpine cp -a /from/. /to/
+# 2. Revert host .wslconfig & Kernel (if changed)
+Copy-Item "C:\Users\khann\redroid_snapshot_backup\.wslconfig.working" "$env:USERPROFILE\.wslconfig" -Force
+Copy-Item "C:\Users\khann\redroid_snapshot_backup\bzImage-audio.working" "C:\Users\khann\wsl-kernel\bzImage-audio" -Force
+# 3. Restart instance
+.\redroid.ps1 start 01

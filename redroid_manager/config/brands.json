@@ -1,0 +1,28 @@
+{
+  "settings": {
+    "base_image": "redroid-instagram:ndk",
+    "base_port": 5555,
+    "memory_limit": "1800m",
+    "default_resolution": "720x1280",
+    "default_fps": 30,
+    "default_dpi": 320
+  },
+  "brands": [
+    {
+      "brand_id": "brand_01",
+      "name": "Brand Alpha",
+      "container_name": "redroid-brand-01",
+      "host_port": 5555,
+      "data_dir": "./data/brand_01",
+      "created_at": "2026-09-27T00:00:00Z"
+    },
+    {
+      "brand_id": "dffds_3",
+      "name": "dffds",
+      "container_name": "redroid-dffds-3",
+      "host_port": 5560,
+      "data_dir": "./data/dffds_3",
+      "created_at": null
+    }
+  ]
+}

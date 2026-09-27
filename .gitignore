@@ -12,6 +12,7 @@ __pycache__/
 *.flv
 *.webm
 *.apk
+apks/
 *.zip
 *.tar
 *.tar.gz
@@ -43,4 +44,7 @@ debug/
 .tempmediaStorage/
 .system_generated/
 docker_export/*.tar.gz
+**/tombstones/
+**/data/uploads/*
+!**/data/uploads/.gitkeep
 

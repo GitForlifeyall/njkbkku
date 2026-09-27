@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redroid Multi-Instance Manager</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/dashboard.css">
+</head>
+<body>
+    <div class="app-layout">
+        <!-- Top Navigation Bar -->
+        <header class="top-nav">
+            <div class="nav-left">
+                <div class="logo-badge">
+                    <span class="logo-icon">🤖</span>
+                    <span class="logo-text">Redroid Studio</span>
+                </div>
+                <span class="version-tag">Multi-Instance v1.0</span>
+            </div>
+            <div class="nav-right">
+                <div class="stat-pill" id="global-active-stat">
+                    <span class="pulse-dot"></span>
+                    <span id="active-instances-text">0 / 0 Active</span>
+                </div>
+                <button class="btn btn-primary" id="btn-open-add-brand">
+                    <span class="btn-icon">+</span> Add Brand
+                </button>
+            </div>
+        </header>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <!-- Metric Overview Cards -->
+            <section class="metrics-grid">
+                <div class="metric-card">
+                    <div class="metric-label">Registered Brands</div>
+                    <div class="metric-value" id="metric-total-brands">0</div>
+                    <div class="metric-sub">Dedicated Android Profiles</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-label">Active Containers</div>
+                    <div class="metric-value text-success" id="metric-active-containers">0</div>
+                    <div class="metric-sub">Shared Image (13.0.0)</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-label">Base Docker Image</div>
+                    <div class="metric-value text-indigo" style="font-size: 1.1rem; padding-top: 6px;">redroid:13.0</div>
+                    <div class="metric-sub">OverlayFS Copy-on-Write</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-label">Memory Budget</div>
+                    <div class="metric-value text-warning" style="font-size: 1.1rem; padding-top: 6px;">1800MB / Brand</div>
+                    <div class="metric-sub">Hard Capped / Auto Reclaim</div>
+                </div>
+            </section>
+
+            <!-- Brand Cards Grid -->
+            <section class="section-container">
+                <div class="section-header">
+                    <h2>Brand Instances</h2>
+                    <div class="section-actions">
+                        <button class="btn btn-secondary btn-sm" id="btn-refresh-brands">
+                            🔄 Refresh
+                        </button>
+                    </div>
+                </div>
+
+                <div class="brands-grid" id="brands-container">
+                    <div class="empty-state" id="empty-state-loading">
+                        <div class="spinner"></div>
+                        <p>Loading brand profiles and scanning container states...</p>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Modal: Add New Brand -->
+    <div class="modal-overlay" id="modal-add-brand">
+        <div class="modal-card">
+            <div class="modal-header">
+                <h3>Add New Brand Profile</h3>
+                <button class="btn-close" id="btn-close-add-brand">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <label for="input-brand-name">Brand / Channel Name</label>
+                    <input type="text" id="input-brand-name" placeholder="e.g. Apex Fitness, Daily Beats" autocomplete="off">
+                    <span class="form-hint">A dedicated Android container and port will be assigned automatically.</span>
+                </div>
+                <div class="form-group">
+                    <label for="input-brand-id">Custom Brand ID (Optional)</label>
+                    <input type="text" id="input-brand-id" placeholder="e.g. apex_fitness (auto-generated if empty)" autocomplete="off">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" id="btn-cancel-add-brand">Cancel</button>
+                <button class="btn btn-primary" id="btn-submit-add-brand">Create Instance</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal: Upload Short -->
+    <div class="modal-overlay" id="modal-upload">
+        <div class="modal-card">
+            <div class="modal-header">
+                <h3>Upload Short / Reel</h3>
+                <button class="btn-close" id="btn-close-upload">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="target-brand-badge" id="upload-target-brand-info">
+                    Target Brand: <strong>Brand Alpha</strong> (Port 5555)
+                </div>
+                <div class="form-group">
+                    <label for="input-upload-title">Short Title / Caption</label>
+                    <input type="text" id="input-upload-title" placeholder="e.g. 5 Morning Productivity Hacks #shorts" autocomplete="off">
+                </div>
+                <div class="form-group">
+                    <label for="input-upload-video">Video File (.mp4)</label>
+                    <div style="display: flex; gap: 8px; margin-bottom: 6px;">
+                        <input type="file" id="input-upload-file" accept="video/mp4,video/*" style="display: none;" onchange="handleFileSelect(event)">
+                        <button type="button" class="btn btn-secondary btn-sm" onclick="document.getElementById('input-upload-file').click()">
+                            📁 Browse File...
+                        </button>
+                        <span id="upload-file-chosen-name" style="font-size: 0.85rem; color: #94a3b8; align-self: center; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">No file chosen</span>
+                    </div>
+                    <input type="text" id="input-upload-video" placeholder="Or enter host path (e.g. C:\videos\sample.mp4)" autocomplete="off">
+                    <span class="form-hint">The worker will push and register this file into the brand's container via ADB.</span>
+                </div>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="input-upload-sound">Audio Track Query (Optional)</label>
+                        <input type="text" id="input-upload-sound" placeholder="e.g. Sunflower" autocomplete="off">
+                    </div>
+                    <div class="form-group">
+                        <label for="input-upload-timestamp">Start Timestamp</label>
+                        <input type="text" id="input-upload-timestamp" placeholder="e.g. 0:30" autocomplete="off">
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" id="btn-cancel-upload">Cancel</button>
+                <button class="btn btn-success" id="btn-submit-upload">🚀 Start Upload</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal: Live Terminal Log Viewer -->
+    <div class="modal-overlay" id="modal-terminal">
+        <div class="modal-card modal-terminal-card">
+            <div class="modal-header terminal-header">
+                <div class="terminal-title">
+                    <span class="term-dot green"></span>
+                    <span id="terminal-brand-title">Live Container & Process Output</span>
+                </div>
+                <div class="terminal-controls">
+                    <button class="btn btn-warning-solid btn-sm" id="btn-terminal-pause-upload" style="display: none;" title="Pause or Resume Upload Script">
+                        ⏸ Pause
+                    </button>
+                    <button class="btn btn-danger-solid btn-sm pulse-upload-stop" id="btn-terminal-stop-upload" style="display: none;" title="Immediately Stop Upload Script">
+                        🛑 Stop Upload
+                    </button>
+                    <button class="btn btn-primary btn-sm" id="btn-terminal-scrcpy" title="Launch Scrcpy Live View">
+                        🖥️ Live Scrcpy
+                    </button>
+                    <button class="btn btn-secondary btn-sm" id="btn-terminal-refresh-logs" title="Fetch Container Logs Snapshot">
+                        🔄 Full Logs
+                    </button>
+                    <label class="auto-scroll-label">
+                        <input type="checkbox" id="chk-auto-scroll" checked> Auto-scroll
+                    </label>
+                    <button class="btn btn-secondary btn-sm" id="btn-clear-terminal">Clear</button>
+                    <button class="btn-close" id="btn-close-terminal">&times;</button>
+                </div>
+            </div>
+
+            <!-- Interactive Log Filter & Search Toolbar -->
+            <div class="terminal-filter-toolbar">
+                <div class="log-filter-tabs">
+                    <button class="filter-tab active" data-filter="morphe" id="tab-log-morphe">📺 Morphe YouTube</button>
+                    <button class="filter-tab" data-filter="container" id="tab-log-container">🐳 Docker Container</button>
+                    <button class="filter-tab" data-filter="start" id="tab-log-start">🚀 Start / Boot</button>
+                    <button class="filter-tab" data-filter="all" id="tab-log-all">📋 All Logs</button>
+                    <button class="filter-tab" data-filter="live" id="tab-log-live">⚡ Live Stream</button>
+                </div>
+                <div class="log-search-container">
+                    <span class="search-icon">🔍</span>
+                    <input type="text" id="terminal-search-input" placeholder="Filter text (e.g. error, fatal, exoplayer, upload)..." autocomplete="off">
+                    <button type="button" id="btn-clear-log-search" class="btn-clear-search" style="display: none;" title="Clear filter">&times;</button>
+                </div>
+            </div>
+
+            <div class="terminal-screen" id="terminal-output">
+                <div class="term-line sys">[SYSTEM] Connecting to WebSocket log stream...</div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/js/app.js"></script>
+</body>
+</html>

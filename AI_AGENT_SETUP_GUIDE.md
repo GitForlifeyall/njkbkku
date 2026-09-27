@@ -22,9 +22,7 @@ This project bypasses emulator bloat (such as BlueStacks or LDPlayer) by using *
 The complete preconfigured Docker container image and persistent Android volume (containing installed Instagram apps, YouTube apps, Google Play services, and user logins) are backed up locally.
 
 ### Local Storage Locations on Origin Machine:
-- **Windows Junction**: `C:\upload android\docker_export\`
-- **Physical Drive D: Path**: `D:\redroid_export\`
-- **WSL2 Ubuntu Path**: `/mnt/d/redroid_export/`
+- all the necessary files are in resroid_instagram_complete.zip
 
 ### File Manifest:
 | Filename | Size | Description |

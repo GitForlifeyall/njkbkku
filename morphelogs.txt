@@ -1,0 +1,598 @@
+09-24 20:49:43.958 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:43.965 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:43.973 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:43.980 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:43.987 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:43.994 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.001 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.008 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.015 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.023 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.030 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.035 D/ConnectivityService(  305): requestNetwork for uid/pid:10088/29027 activeRequest: null callbackRequest: 140 [NetworkRequest [ REQUEST id=141, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10088 RequestorUid: 10088 RequestorPkg: app.morphe.android.youtube UnderlyingNetworks: Null] ]] callback flags: 0 order: 2147483647
+09-24 20:49:44.036 D/EthernetNetworkFactory(  305): eth0: onNetworkNeeded for request: NetworkRequest [ REQUEST id=141, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10088 RequestorUid: 10088 RequestorPkg: app.morphe.android.youtube UnderlyingNetworks: Null] ]
+09-24 20:49:44.037 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.037 D/UntrustedWifiNetworkFactory(  305): got request NetworkRequest [ REQUEST id=141, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10088 RequestorUid: 10088 RequestorPkg: app.morphe.android.youtube UnderlyingNetworks: Null] ]
+09-24 20:49:44.037 D/OemPaidWifiNetworkFactory(  305): got request NetworkRequest [ REQUEST id=141, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10088 RequestorUid: 10088 RequestorPkg: app.morphe.android.youtube UnderlyingNetworks: Null] ]
+09-24 20:49:44.040 D/MultiInternetWifiNetworkFactory(  305): got request NetworkRequest [ REQUEST id=141, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10088 RequestorUid: 10088 RequestorPkg: app.morphe.android.youtube UnderlyingNetworks: Null] ]
+09-24 20:49:44.044 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.051 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.058 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.065 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.071 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.079 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.086 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.093 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.100 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.107 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.116 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.122 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.129 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.136 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.143 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.150 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.157 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.164 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.171 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.179 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.207 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.214 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.220 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.228 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.235 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.242 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.249 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.258 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.263 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.271 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.277 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.285 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.291 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.299 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.300 W/android.youtube(29027): Long monitor contention with owner BG Thread #9 (29353) at ahdh ahdp.a(amac)(PG:10) waiters=0 in ahdh ahdp.a(amac) for 456ms
+09-24 20:49:44.302 W/android.youtube(29027): Long monitor contention with owner BG Thread #9 (29353) at java.lang.Object bmrl.d()(PG:42) waiters=0 in java.lang.Object bmrl.d() for 505ms
+09-24 20:49:44.306 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.309 W/android.youtube(29027): Long monitor contention with owner BG Thread #9 (29353) at java.lang.Object bmrl.d()(PG:42) waiters=0 in java.lang.Object bmrl.d() for 528ms
+09-24 20:49:44.309 W/android.youtube(29027): Long monitor contention with owner BG Thread #9 (29353) at java.lang.Object bmrl.d()(PG:42) waiters=1 in java.lang.Object bmrl.d() for 519ms
+09-24 20:49:44.313 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.320 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.327 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.334 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.341 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.349 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.355 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.363 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.370 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.377 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.384 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.391 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.398 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.406 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.413 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.419 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.427 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.434 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.441 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.448 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.455 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.462 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.469 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.477 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.484 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.490 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.497 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.504 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.512 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.519 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.526 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.533 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.540 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.547 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.554 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.561 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.570 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.576 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.583 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.591 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.597 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.604 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.610 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.618 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.625 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.632 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.639 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.647 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.653 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.660 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.667 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.674 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.682 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.684 D/ProviderInstaller(29027): Installed default security provider GmsCore_OpenSSL
+09-24 20:49:44.691 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.696 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.706 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.711 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.722 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.726 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.726 D/CompatibilityChangeReporter(29027): Compat change id reported: 183155436; UID 10088; state: ENABLED
+09-24 20:49:44.733 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.739 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.746 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.754 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.759 W/DynamiteModule(29027): IDynamite loader version = 2, no high precision latency measurement.
+09-24 20:49:44.760 D/GmsGcmRegister( 2801): onBind: Intent { act=app.revanced.android.c2dm.intent.REGISTER pkg=app.revanced.android.gms }
+09-24 20:49:44.760 W/DynamiteModule(29027): IDynamite loader version = 2, no high precision latency measurement.
+09-24 20:49:44.761 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.763 D/PhenotypeService( 2494): register(com.google.android.gms.measurement#app.morphe.android.youtube, 0, [Ljava.lang.String;@6b4b395, null)
+09-24 20:49:44.768 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.770 I/SpoofUtils( 2801): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:44.771 D/GmsGcmRegister( 2801): handleMessage: package=app.morphe.android.youtube what=4 id=1
+09-24 20:49:44.772 I/SpoofUtils( 2801): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:44.772 D/GmsGcmRegister( 2801): handleMessage: package=app.morphe.android.youtube what=5 id=2
+09-24 20:49:44.775 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.783 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.792 D/CompatibilityChangeReporter(29027): Compat change id reported: 289878283; UID 10088; state: ENABLED
+09-24 20:49:44.793 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.795 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.806 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.810 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.817 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.824 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.831 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.838 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.845 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.852 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.854 D/CompatibilityChangeReporter(29027): Compat change id reported: 263076149; UID 10088; state: ENABLED
+09-24 20:49:44.862 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.866 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.873 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.880 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.887 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.895 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.902 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.909 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.916 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.923 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.930 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.937 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.944 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.952 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.958 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.966 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.968 I/VideoCapabilities(29027): Unsupported profile 4 for video/mp4v-es
+09-24 20:49:44.974 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.980 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.987 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:44.994 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.001 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.009 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.015 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.022 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.029 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.036 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.043 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.053 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.058 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.065 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.071 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.079 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.086 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.093 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.100 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.107 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.114 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.122 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.128 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.135 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.143 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.150 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.157 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.164 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.171 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.178 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.185 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.194 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.200 W/InputDispatcher(  305): Not sending touch gesture to 4377720 ActivityRecordInputSink app.morphe.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity because it has config NO_INPUT_CHANNEL
+09-24 20:49:45.234 W/android.youtube(29027): Long monitor contention with owner yt-critical Thread #1 (29154) at void org.chromium.net.impl.CronetUrlRequestContext.addRttListener(org.chromium.net.NetworkQualityRttListener)(PG:28) waiters=0 in void aphw.run() for 410ms
+09-24 20:49:45.234 W/android.youtube(29027): Long monitor contention with owner yt-critical Thread #1 (29154) at java.lang.Object bmrl.d()(PG:42) waiters=0 in java.lang.Object bmrl.d() for 2.574s
+09-24 20:49:45.234 W/android.youtube(29027): Long monitor contention with owner yt-critical Thread #1 (29154) at java.lang.Object bmrl.d()(PG:42) waiters=1 in java.lang.Object bmrl.d() for 1.460s
+09-24 20:49:45.239 D/ChimeraServiceProvider( 2494): serviceIntentCall: app.revanced.android.gms.potokens.service.START -> Intent { act=app.revanced.android.gms.potokens.service.START pkg=app.revanced.android.gms cmp=app.revanced.android.gms/org.microg.gms.potokens.PoTokensService }
+09-24 20:49:45.240 W/android.youtube(29027): Long monitor contention with owner yt-critical Thread #1 (29154) at java.lang.Object bmrl.d()(PG:42) waiters=2 in java.lang.Object bmrl.d() for 1.442s
+09-24 20:49:45.249 D/PoTokens( 2494): onBind: Intent { act=app.revanced.android.gms.potokens.service.START pkg=app.revanced.android.gms cmp=app.revanced.android.gms/org.microg.gms.potokens.PoTokensService }
+09-24 20:49:45.255 D/PoTokens( 2494): bound by: GetServiceRequest[PO_TOKENS, packageName="app.morphe.android.youtube", gmsVersion=261405000, scopes=[], extras=Bundle[{}], defaultFeatures=[], apiFeatures=[Feature[PO_TOKENS,1]], supportsConnectionInfo=true]
+09-24 20:49:45.285 I/FA      (29027): App measurement initialized, version: 162002
+09-24 20:49:45.285 I/FA      (29027): To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+09-24 20:49:45.285 I/FA      (29027): To enable faster debug mode event logging run:
+09-24 20:49:45.285 I/FA      (29027):   adb shell setprop debug.firebase.analytics.app app.morphe.android.youtube
+09-24 20:49:45.435 D/CompatibilityChangeReporter(29027): Compat change id reported: 171228096; UID 10088; state: ENABLED
+09-24 20:49:45.922 W/android.youtube(29027): Long monitor contention with owner CronetInit (29184) at void aphw.run()(PG:48) waiters=0 in org.chromium.net.ExperimentalUrlRequest org.chromium.net.impl.CronetUrlRequestContext.b(java.lang.String, org.chromium.net.UrlRequest$Callback, java.util.concurrent.Executor, int, java.util.Collection, boolean, boolean, boolean, boolean, int, boolean, int, org.chromium.net.RequestFinishedInfo$Listener, int, long, java.lang.String, java.util.ArrayList, org.chromium.net.UploadDataProvider, java.util.concurrent.Executor, byte[], java.nio.ByteBuffer, java.lang.String) for 684ms
+09-24 20:49:45.924 W/android.youtube(29027): Long monitor contention with owner CronetInit (29184) at void aphw.run()(PG:48) waiters=1 in org.chromium.net.ExperimentalUrlRequest org.chromium.net.impl.CronetUrlRequestContext.b(java.lang.String, org.chromium.net.UrlRequest$Callback, java.util.concurrent.Executor, int, java.util.Collection, boolean, boolean, boolean, boolean, int, boolean, int, org.chromium.net.RequestFinishedInfo$Listener, int, long, java.lang.String, java.util.ArrayList, org.chromium.net.UploadDataProvider, java.util.concurrent.Executor, byte[], java.nio.ByteBuffer, java.lang.String) for 679ms
+09-24 20:49:45.926 W/android.youtube(29027): Long monitor contention with owner CronetInit (29184) at void aphw.run()(PG:48) waiters=2 in org.chromium.net.ExperimentalUrlRequest org.chromium.net.impl.CronetUrlRequestContext.b(java.lang.String, org.chromium.net.UrlRequest$Callback, java.util.concurrent.Executor, int, java.util.Collection, boolean, boolean, boolean, boolean, int, boolean, int, org.chromium.net.RequestFinishedInfo$Listener, int, long, java.lang.String, java.util.ArrayList, org.chromium.net.UploadDataProvider, java.util.concurrent.Executor, byte[], java.nio.ByteBuffer, java.lang.String) for 680ms
+09-24 20:49:45.928 W/android.youtube(29027): Long monitor contention with owner CronetInit (29184) at void aphw.run()(PG:48) waiters=3 in org.chromium.net.ExperimentalUrlRequest org.chromium.net.impl.CronetUrlRequestContext.b(java.lang.String, org.chromium.net.UrlRequest$Callback, java.util.concurrent.Executor, int, java.util.Collection, boolean, boolean, boolean, boolean, int, boolean, int, org.chromium.net.RequestFinishedInfo$Listener, int, long, java.lang.String, java.util.ArrayList, org.chromium.net.UploadDataProvider, java.util.concurrent.Executor, byte[], java.nio.ByteBuffer, java.lang.String) for 540ms
+09-24 20:49:46.728 I/android.youtube(29027): Background concurrent copying GC freed 238078(13MB) AllocSpace objects, 84(8516KB) LOS objects, 75% free, 19MB/78MB, paused 155us,65us total 281.166ms
+09-24 20:49:46.735 W/android.youtube(29027): ApkAssets: Deleting an ApkAssets object '<empty> and /system/product/app/webview/webview.apk' with 1 weak references
+09-24 20:49:46.737 W/System  (29027): A resource failed to call MemoryIntArray.close. 
+09-24 20:49:46.737 W/System  (29027): A resource failed to call MemoryIntArray.close. 
+09-24 20:49:46.775 D/MeasurementService( 2494): onBind: Intent { act=app.revanced.android.gms.measurement.START pkg=app.revanced.android.gms }
+09-24 20:49:47.111 W/android.youtube(29027): Long monitor contention with owner Lite Thread #1 (29176) at com.google.android.libraries.elements.interfaces.ResourceLoader apht.a()(PG:974) waiters=0 in com.google.android.libraries.elements.interfaces.ResourceLoader apht.a() for 3.012s
+09-24 20:49:47.112 W/android.youtube(29027): Long monitor contention with owner Lite Thread #1 (29176) at com.google.android.libraries.elements.interfaces.ResourceLoader apht.a()(PG:974) waiters=1 in com.google.android.libraries.elements.interfaces.ResourceLoader apht.a() for 1.075s
+09-24 20:49:47.113 W/android.youtube(29027): Long monitor contention with owner Lite Thread #1 (29176) at com.google.android.libraries.elements.interfaces.ResourceLoader apht.a()(PG:974) waiters=2 in com.google.android.libraries.elements.interfaces.ResourceLoader apht.a() for 1.067s
+09-24 20:49:47.113 W/android.youtube(29027): Long monitor contention with owner Lite Thread #1 (29176) at com.google.android.libraries.elements.interfaces.ResourceLoader apht.a()(PG:974) waiters=3 in com.google.android.libraries.elements.interfaces.ResourceLoader apht.a() for 962ms
+09-24 20:49:47.205 W/android.youtube(29027): Long monitor contention with owner BG Thread #0 (29142) at java.lang.Object atsw.lS()(PG:24) waiters=0 in java.lang.Object atsw.lS() for 1.729s
+09-24 20:49:47.460 W/GoogleApiManager(29027): sin could not execute call because it requires feature (get_storage_info_api, 1).
+09-24 20:49:47.538 W/android.youtube(29027): Long monitor contention with owner BG Thread #5 (29169) at java.lang.Object icp.d()(PG:139) waiters=0 in java.lang.Object icp.d() for 3.228s
+09-24 20:49:48.632 W/android.youtube(29027): Long monitor contention with owner main (29027) at java.lang.Object bmrl.d()(PG:42) waiters=0 in java.lang.Object bmrl.d() for 1.427s
+09-24 20:49:49.166 D/CompatibilityChangeReporter(29027): Compat change id reported: 193247900; UID 10088; state: ENABLED
+09-24 20:49:49.183 D/CompatibilityChangeReporter(29027): Compat change id reported: 210923482; UID 10088; state: ENABLED
+09-24 20:49:49.205 W/PackageConfigPersister(  305): App-specific configuration not found for packageName: app.morphe.android.youtube and userId: 0
+09-24 20:49:49.215 W/SQLiteLog(29027): (28) double-quoted string literal: ""
+09-24 20:49:49.215 W/SQLiteLog(29027): (28) double-quoted string literal: "GAIA_DELEGATION_TYPE_EARLY"
+09-24 20:49:49.215 W/SQLiteLog(29027): (28) double-quoted string literal: "GAIA_DELEGATION_TYPE_LATE"
+09-24 20:49:49.215 W/SQLiteLog(29027): (28) double-quoted string literal: ""
+09-24 20:49:49.216 W/SQLiteLog(29027): (28) double-quoted string literal: ""
+09-24 20:49:49.216 W/SQLiteLog(29027): (28) double-quoted string literal: "GAIA_DELEGATION_TYPE_EARLY"
+09-24 20:49:49.216 W/SQLiteLog(29027): (28) double-quoted string literal: "GAIA_DELEGATION_TYPE_LATE"
+09-24 20:49:49.216 W/SQLiteLog(29027): (28) double-quoted string literal: ""
+09-24 20:49:49.419 V/MediaRouter(29027): Selecting route: RouteInfo{ name=Phone, description=null, status=null, category=RouteCategory{ name=System types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+09-24 20:49:49.419 I/MediaRouter(29027): Skip setBluetoothA2dpOn(): types=8388615, isPlaybackActive()=false, BT route=null
+09-24 20:49:49.781 I/android.youtube(29027): JIT allocated 50KB for compiled code of java.lang.Object hht.i()
+09-24 20:49:49.953 E/abww    (29027): No overlay to dismiss.
+09-24 20:49:49.973 D/ChimeraServiceProvider( 2494): serviceIntentCall: com.google.android.gms.auth.aang.events.services.START -> Intent { act=com.google.android.gms.auth.aang.events.services.START pkg=app.revanced.android.gms cmp=app.revanced.android.gms/org.microg.gms.DummyService }
+09-24 20:49:49.976 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:49.976 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:49.979 D/GmsDummySvc( 2494): onBind: Intent { act=com.google.android.gms.auth.aang.events.services.START pkg=app.revanced.android.gms cmp=app.revanced.android.gms/org.microg.gms.DummyService }
+09-24 20:49:49.981 D/GmsDummySvc( 2494): bound by: GetServiceRequest[GOOGLE_AUTH_AANG, packageName="app.morphe.android.youtube", gmsVersion=261405000, scopes=[], extras=Bundle[{}], defaultFeatures=[], apiFeatures=[Feature[google_auth_api,1], Feature[sync_account_state_api,1], Feature[embedded_reauth,1], Feature[remove_account_api,1]], supportsConnectionInfo=true]
+09-24 20:49:49.981 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:49.982 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:49.991 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:50.000 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:50.001 W/WindowOnBackDispatcher(29027): OnBackInvokedCallback is not enabled for the application.
+09-24 20:49:50.001 W/WindowOnBackDispatcher(29027): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+09-24 20:49:50.032 E/android.youtube(29027): Resource 7f040b43 is a complex map type.
+09-24 20:49:50.045 W/YouTube (29027): Screen is null in executeScreenLogAction
+09-24 20:49:50.202 E/YT.mlplayer(29027): MedialibPlayer.setMediaView(98192056(0,0,0,0))
+09-24 20:49:50.212 W/OrientationEventListener(29027): Cannot detect sensors. Not enabled
+09-24 20:49:50.225 E/YouTube (29027): Failed to get advertising id
+09-24 20:49:50.225 E/YouTube (29027): java.io.IOException: AdvertisingIdClient cannot reconnect.
+09-24 20:49:50.225 E/YouTube (29027): 	at qnw.d(PG:28)
+09-24 20:49:50.225 E/YouTube (29027): 	at qnw.e(PG:64)
+09-24 20:49:50.225 E/YouTube (29027): 	at vsq.k(PG:16)
+09-24 20:49:50.225 E/YouTube (29027): 	at aavi.run(PG:528)
+09-24 20:49:50.225 E/YouTube (29027): 	at atgn.run(PG:25)
+09-24 20:49:50.225 E/YouTube (29027): 	at tej.run(PG:7)
+09-24 20:49:50.225 E/YouTube (29027): 	at aulh.run(PG:44)
+09-24 20:49:50.225 E/YouTube (29027): 	at tmt.run(PG:745)
+09-24 20:49:50.225 E/YouTube (29027): 	at fce.run(PG:1102)
+09-24 20:49:50.225 E/YouTube (29027): 	at java.lang.Thread.run(Thread.java:1012)
+09-24 20:49:50.225 E/YouTube (29027): 	at tfe.run(PG:61)
+09-24 20:49:50.225 E/YouTube (29027): Caused by: rde
+09-24 20:49:50.225 E/YouTube (29027): 	at qnw.c(PG:182)
+09-24 20:49:50.225 E/YouTube (29027): 	at qnw.d(PG:7)
+09-24 20:49:50.225 E/YouTube (29027): 	... 10 more
+09-24 20:49:50.263 D/CompatibilityChangeReporter(29027): Compat change id reported: 237531167; UID 10088; state: DISABLED
+09-24 20:49:50.265 W/OpenGLRenderer(29027): Unknown dataspace 0
+09-24 20:49:50.281 E/YT.mlplayer(29027): setAudioDrc(enabled=1)
+09-24 20:49:50.292 E/YT.mlplayer(29027): setAudioDrc(enabled=1)
+09-24 20:49:50.293 W/YouTube (29027): ECatcher disabled: level: WARNING, category: logging, message: Csi-on-Gel: Unrecognize LatencyActionInfo for key = bres_d
+09-24 20:49:50.293 W/YouTube (29027): java.lang.Exception
+09-24 20:49:50.293 W/YouTube (29027): 	at ajkk.c(PG:51)
+09-24 20:49:50.293 W/YouTube (29027): 	at ajkl.f(PG:10)
+09-24 20:49:50.293 W/YouTube (29027): 	at ajkf.f(PG:3)
+09-24 20:49:50.293 W/YouTube (29027): 	at ajkr.b(PG:73)
+09-24 20:49:50.293 W/YouTube (29027): 	at ajkq.a(PG:23)
+09-24 20:49:50.293 W/YouTube (29027): 	at ajkq.b(PG:23)
+09-24 20:49:50.293 W/YouTube (29027): 	at acfy.a(PG:86)
+09-24 20:49:50.293 W/YouTube (29027): 	at aavi.run(PG:480)
+09-24 20:49:50.293 W/YouTube (29027): 	at atgn.run(PG:25)
+09-24 20:49:50.293 W/YouTube (29027): 	at atgn.run(PG:25)
+09-24 20:49:50.293 W/YouTube (29027): 	at auss.run(PG:11)
+09-24 20:49:50.293 W/YouTube (29027): 	at aust.run(PG:203)
+09-24 20:49:50.293 W/YouTube (29027): 	at tej.run(PG:7)
+09-24 20:49:50.293 W/YouTube (29027): 	at aulh.run(PG:44)
+09-24 20:49:50.293 W/YouTube (29027): 	at tmt.run(PG:745)
+09-24 20:49:50.293 W/YouTube (29027): 	at fce.run(PG:1102)
+09-24 20:49:50.293 W/YouTube (29027): 	at java.lang.Thread.run(Thread.java:1012)
+09-24 20:49:50.293 W/YouTube (29027): 	at tfe.run(PG:61)
+09-24 20:49:50.294 D/MeasurementService( 2494): bound by: GetServiceRequest[MEASUREMENT, packageName="app.morphe.android.youtube", gmsVersion=261405000, scopes=[], extras=Bundle[{}], defaultFeatures=[], apiFeatures=[], supportsConnectionInfo=true]
+09-24 20:49:50.296 W/YouTube (29027): ECatcher disabled: level: WARNING, category: logging, message: Csi-on-Gel: Unrecognize LatencyActionInfo for key = psmd
+09-24 20:49:50.296 W/YouTube (29027): java.lang.Exception
+09-24 20:49:50.296 W/YouTube (29027): 	at ajkk.c(PG:51)
+09-24 20:49:50.296 W/YouTube (29027): 	at ajkl.f(PG:10)
+09-24 20:49:50.296 W/YouTube (29027): 	at ajkf.f(PG:3)
+09-24 20:49:50.296 W/YouTube (29027): 	at ajkr.b(PG:73)
+09-24 20:49:50.296 W/YouTube (29027): 	at ajkq.a(PG:23)
+09-24 20:49:50.296 W/YouTube (29027): 	at ajkq.b(PG:23)
+09-24 20:49:50.296 W/YouTube (29027): 	at acfy.a(PG:86)
+09-24 20:49:50.296 W/YouTube (29027): 	at aavi.run(PG:480)
+09-24 20:49:50.296 W/YouTube (29027): 	at atgn.run(PG:25)
+09-24 20:49:50.296 W/YouTube (29027): 	at atgn.run(PG:25)
+09-24 20:49:50.296 W/YouTube (29027): 	at auss.run(PG:11)
+09-24 20:49:50.296 W/YouTube (29027): 	at aust.run(PG:203)
+09-24 20:49:50.296 W/YouTube (29027): 	at tej.run(PG:7)
+09-24 20:49:50.296 W/YouTube (29027): 	at aulh.run(PG:44)
+09-24 20:49:50.296 W/YouTube (29027): 	at tmt.run(PG:745)
+09-24 20:49:50.296 W/YouTube (29027): 	at fce.run(PG:1102)
+09-24 20:49:50.296 W/YouTube (29027): 	at java.lang.Thread.run(Thread.java:1012)
+09-24 20:49:50.296 W/YouTube (29027): 	at tfe.run(PG:61)
+09-24 20:49:50.296 W/YouTube (29027): ECatcher disabled: level: WARNING, category: logging, message: Csi-on-Gel: Unrecognize LatencyActionInfo for key = subl
+09-24 20:49:50.296 W/YouTube (29027): java.lang.Exception
+09-24 20:49:50.296 W/YouTube (29027): 	at ajkk.c(PG:51)
+09-24 20:49:50.296 W/YouTube (29027): 	at ajkl.f(PG:10)
+09-24 20:49:50.296 W/YouTube (29027): 	at ajkf.f(PG:3)
+09-24 20:49:50.296 W/YouTube (29027): 	at ajkr.b(PG:73)
+09-24 20:49:50.296 W/YouTube (29027): 	at ajkq.a(PG:23)
+09-24 20:49:50.296 W/YouTube (29027): 	at ajkq.b(PG:23)
+09-24 20:49:50.296 W/YouTube (29027): 	at acfy.a(PG:86)
+09-24 20:49:50.296 W/YouTube (29027): 	at aavi.run(PG:480)
+09-24 20:49:50.296 W/YouTube (29027): 	at atgn.run(PG:25)
+09-24 20:49:50.296 W/YouTube (29027): 	at atgn.run(PG:25)
+09-24 20:49:50.296 W/YouTube (29027): 	at auss.run(PG:11)
+09-24 20:49:50.296 W/YouTube (29027): 	at aust.run(PG:203)
+09-24 20:49:50.296 W/YouTube (29027): 	at tej.run(PG:7)
+09-24 20:49:50.296 W/YouTube (29027): 	at aulh.run(PG:44)
+09-24 20:49:50.296 W/YouTube (29027): 	at tmt.run(PG:745)
+09-24 20:49:50.296 W/YouTube (29027): 	at fce.run(PG:1102)
+09-24 20:49:50.296 W/YouTube (29027): 	at java.lang.Thread.run(Thread.java:1012)
+09-24 20:49:50.296 W/YouTube (29027): 	at tfe.run(PG:61)
+09-24 20:49:50.296 W/YouTube (29027): ECatcher disabled: level: WARNING, category: logging, message: Csi-on-Gel: Unrecognize LatencyActionInfo for key = sudsl
+09-24 20:49:50.296 W/YouTube (29027): java.lang.Exception
+09-24 20:49:50.296 W/YouTube (29027): 	at ajkk.c(PG:51)
+09-24 20:49:50.296 W/YouTube (29027): 	at ajkl.f(PG:10)
+09-24 20:49:50.296 W/YouTube (29027): 	at ajkf.f(PG:3)
+09-24 20:49:50.296 W/YouTube (29027): 	at ajkr.b(PG:73)
+09-24 20:49:50.296 W/YouTube (29027): 	at ajkq.a(PG:23)
+09-24 20:49:50.296 W/YouTube (29027): 	at ajkq.b(PG:23)
+09-24 20:49:50.296 W/YouTube (29027): 	at acfy.a(PG:86)
+09-24 20:49:50.296 W/YouTube (29027): 	at aavi.run(PG:480)
+09-24 20:49:50.296 W/YouTube (29027): 	at atgn.run(PG:25)
+09-24 20:49:50.296 W/YouTube (29027): 	at atgn.run(PG:25)
+09-24 20:49:50.296 W/YouTube (29027): 	at auss.run(PG:11)
+09-24 20:49:50.296 W/YouTube (29027): 	at aust.run(PG:203)
+09-24 20:49:50.296 W/YouTube (29027): 	at tej.run(PG:7)
+09-24 20:49:50.296 W/YouTube (29027): 	at aulh.run(PG:44)
+09-24 20:49:50.296 W/YouTube (29027): 	at tmt.run(PG:745)
+09-24 20:49:50.296 W/YouTube (29027): 	at fce.run(PG:1102)
+09-24 20:49:50.296 W/YouTube (29027): 	at java.lang.Thread.run(Thread.java:1012)
+09-24 20:49:50.296 W/YouTube (29027): 	at tfe.run(PG:61)
+09-24 20:49:50.297 W/YouTube (29027): ECatcher disabled: level: WARNING, category: logging, message: Csi-on-Gel: Unrecognize LatencyActionInfo for key = sutt
+09-24 20:49:50.297 W/YouTube (29027): java.lang.Exception
+09-24 20:49:50.297 W/YouTube (29027): 	at ajkk.c(PG:51)
+09-24 20:49:50.297 W/YouTube (29027): 	at ajkl.f(PG:10)
+09-24 20:49:50.297 W/YouTube (29027): 	at ajkf.f(PG:3)
+09-24 20:49:50.297 W/YouTube (29027): 	at ajkr.b(PG:73)
+09-24 20:49:50.297 W/YouTube (29027): 	at ajkq.a(PG:23)
+09-24 20:49:50.297 W/YouTube (29027): 	at ajkq.b(PG:23)
+09-24 20:49:50.297 W/YouTube (29027): 	at acfy.a(PG:86)
+09-24 20:49:50.297 W/YouTube (29027): 	at aavi.run(PG:480)
+09-24 20:49:50.297 W/YouTube (29027): 	at atgn.run(PG:25)
+09-24 20:49:50.297 W/YouTube (29027): 	at atgn.run(PG:25)
+09-24 20:49:50.297 W/YouTube (29027): 	at auss.run(PG:11)
+09-24 20:49:50.297 W/YouTube (29027): 	at aust.run(PG:203)
+09-24 20:49:50.297 W/YouTube (29027): 	at tej.run(PG:7)
+09-24 20:49:50.297 W/YouTube (29027): 	at aulh.run(PG:44)
+09-24 20:49:50.297 W/YouTube (29027): 	at tmt.run(PG:745)
+09-24 20:49:50.297 W/YouTube (29027): 	at fce.run(PG:1102)
+09-24 20:49:50.297 W/YouTube (29027): 	at java.lang.Thread.run(Thread.java:1012)
+09-24 20:49:50.297 W/YouTube (29027): 	at tfe.run(PG:61)
+09-24 20:49:50.297 W/YouTube (29027): ECatcher disabled: level: WARNING, category: logging, message: Csi-on-Gel: Unrecognize LatencyActionInfo for key = sute
+09-24 20:49:50.297 W/YouTube (29027): java.lang.Exception
+09-24 20:49:50.297 W/YouTube (29027): 	at ajkk.c(PG:51)
+09-24 20:49:50.297 W/YouTube (29027): 	at ajkl.f(PG:10)
+09-24 20:49:50.297 W/YouTube (29027): 	at ajkf.f(PG:3)
+09-24 20:49:50.297 W/YouTube (29027): 	at ajkr.b(PG:73)
+09-24 20:49:50.297 W/YouTube (29027): 	at ajkq.a(PG:23)
+09-24 20:49:50.297 W/YouTube (29027): 	at ajkq.b(PG:23)
+09-24 20:49:50.297 W/YouTube (29027): 	at acfy.a(PG:86)
+09-24 20:49:50.297 W/YouTube (29027): 	at aavi.run(PG:480)
+09-24 20:49:50.297 W/YouTube (29027): 	at atgn.run(PG:25)
+09-24 20:49:50.297 W/YouTube (29027): 	at atgn.run(PG:25)
+09-24 20:49:50.297 W/YouTube (29027): 	at auss.run(PG:11)
+09-24 20:49:50.297 W/YouTube (29027): 	at aust.run(PG:203)
+09-24 20:49:50.297 W/YouTube (29027): 	at tej.run(PG:7)
+09-24 20:49:50.297 W/YouTube (29027): 	at aulh.run(PG:44)
+09-24 20:49:50.297 W/YouTube (29027): 	at tmt.run(PG:745)
+09-24 20:49:50.297 W/YouTube (29027): 	at fce.run(PG:1102)
+09-24 20:49:50.297 W/YouTube (29027): 	at java.lang.Thread.run(Thread.java:1012)
+09-24 20:49:50.297 W/YouTube (29027): 	at tfe.run(PG:61)
+09-24 20:49:50.298 W/YouTube (29027): ECatcher disabled: level: WARNING, category: logging, message: Csi-on-Gel: Unrecognize LatencyActionInfo for key = swib
+09-24 20:49:50.298 W/YouTube (29027): java.lang.Exception
+09-24 20:49:50.298 W/YouTube (29027): 	at ajkk.c(PG:51)
+09-24 20:49:50.298 W/YouTube (29027): 	at ajkl.f(PG:10)
+09-24 20:49:50.298 W/YouTube (29027): 	at ajkf.f(PG:3)
+09-24 20:49:50.298 W/YouTube (29027): 	at ajkr.b(PG:73)
+09-24 20:49:50.298 W/YouTube (29027): 	at ajkq.a(PG:23)
+09-24 20:49:50.298 W/YouTube (29027): 	at ajkq.b(PG:23)
+09-24 20:49:50.298 W/YouTube (29027): 	at acfy.a(PG:86)
+09-24 20:49:50.298 W/YouTube (29027): 	at aavi.run(PG:480)
+09-24 20:49:50.298 W/YouTube (29027): 	at atgn.run(PG:25)
+09-24 20:49:50.298 W/YouTube (29027): 	at atgn.run(PG:25)
+09-24 20:49:50.298 W/YouTube (29027): 	at auss.run(PG:11)
+09-24 20:49:50.298 W/YouTube (29027): 	at aust.run(PG:203)
+09-24 20:49:50.298 W/YouTube (29027): 	at tej.run(PG:7)
+09-24 20:49:50.298 W/YouTube (29027): 	at aulh.run(PG:44)
+09-24 20:49:50.298 W/YouTube (29027): 	at tmt.run(PG:745)
+09-24 20:49:50.298 W/YouTube (29027): 	at fce.run(PG:1102)
+09-24 20:49:50.298 W/YouTube (29027): 	at java.lang.Thread.run(Thread.java:1012)
+09-24 20:49:50.298 W/YouTube (29027): 	at tfe.run(PG:61)
+09-24 20:49:50.298 W/YouTube (29027): ECatcher disabled: level: WARNING, category: logging, message: Csi-on-Gel: Unrecognize LatencyActionInfo for key = sswo
+09-24 20:49:50.298 W/YouTube (29027): java.lang.Exception
+09-24 20:49:50.298 W/YouTube (29027): 	at ajkk.c(PG:51)
+09-24 20:49:50.298 W/YouTube (29027): 	at ajkl.f(PG:10)
+09-24 20:49:50.298 W/YouTube (29027): 	at ajkf.f(PG:3)
+09-24 20:49:50.298 W/YouTube (29027): 	at ajkr.b(PG:73)
+09-24 20:49:50.298 W/YouTube (29027): 	at ajkq.a(PG:23)
+09-24 20:49:50.298 W/YouTube (29027): 	at ajkq.b(PG:23)
+09-24 20:49:50.298 W/YouTube (29027): 	at acfy.a(PG:86)
+09-24 20:49:50.298 W/YouTube (29027): 	at aavi.run(PG:480)
+09-24 20:49:50.298 W/YouTube (29027): 	at atgn.run(PG:25)
+09-24 20:49:50.298 W/YouTube (29027): 	at atgn.run(PG:25)
+09-24 20:49:50.298 W/YouTube (29027): 	at auss.run(PG:11)
+09-24 20:49:50.298 W/YouTube (29027): 	at aust.run(PG:203)
+09-24 20:49:50.298 W/YouTube (29027): 	at tej.run(PG:7)
+09-24 20:49:50.298 W/YouTube (29027): 	at aulh.run(PG:44)
+09-24 20:49:50.298 W/YouTube (29027): 	at tmt.run(PG:745)
+09-24 20:49:50.298 W/YouTube (29027): 	at fce.run(PG:1102)
+09-24 20:49:50.298 W/YouTube (29027): 	at java.lang.Thread.run(Thread.java:1012)
+09-24 20:49:50.298 W/YouTube (29027): 	at tfe.run(PG:61)
+09-24 20:49:50.298 W/YouTube (29027): ECatcher disabled: level: WARNING, category: logging, message: Csi-on-Gel: Unrecognize LatencyActionInfo for key = sbdc
+09-24 20:49:50.298 W/YouTube (29027): java.lang.Exception
+09-24 20:49:50.298 W/YouTube (29027): 	at ajkk.c(PG:51)
+09-24 20:49:50.298 W/YouTube (29027): 	at ajkl.f(PG:10)
+09-24 20:49:50.298 W/YouTube (29027): 	at ajkf.f(PG:3)
+09-24 20:49:50.298 W/YouTube (29027): 	at ajkr.b(PG:73)
+09-24 20:49:50.298 W/YouTube (29027): 	at ajkq.a(PG:23)
+09-24 20:49:50.298 W/YouTube (29027): 	at ajkq.b(PG:23)
+09-24 20:49:50.298 W/YouTube (29027): 	at acfy.a(PG:86)
+09-24 20:49:50.298 W/YouTube (29027): 	at aavi.run(PG:480)
+09-24 20:49:50.298 W/YouTube (29027): 	at atgn.run(PG:25)
+09-24 20:49:50.298 W/YouTube (29027): 	at atgn.run(PG:25)
+09-24 20:49:50.298 W/YouTube (29027): 	at auss.run(PG:11)
+09-24 20:49:50.298 W/YouTube (29027): 	at aust.run(PG:203)
+09-24 20:49:50.298 W/YouTube (29027): 	at tej.run(PG:7)
+09-24 20:49:50.298 W/YouTube (29027): 	at aulh.run(PG:44)
+09-24 20:49:50.298 W/YouTube (29027): 	at tmt.run(PG:745)
+09-24 20:49:50.298 W/YouTube (29027): 	at fce.run(PG:1102)
+09-24 20:49:50.298 W/YouTube (29027): 	at java.lang.Thread.run(Thread.java:1012)
+09-24 20:49:50.298 W/YouTube (29027): 	at tfe.run(PG:61)
+09-24 20:49:50.346 W/YouTube (29027): ECatcher disabled: level: WARNING, category: logging, message: Csi-on-Gel: Unrecognize LatencyActionInfo for key = yt_intent
+09-24 20:49:50.346 W/YouTube (29027): java.lang.Exception
+09-24 20:49:50.346 W/YouTube (29027): 	at ajkk.c(PG:51)
+09-24 20:49:50.346 W/YouTube (29027): 	at ajkl.f(PG:10)
+09-24 20:49:50.346 W/YouTube (29027): 	at ajkf.f(PG:3)
+09-24 20:49:50.346 W/YouTube (29027): 	at ajkr.b(PG:133)
+09-24 20:49:50.346 W/YouTube (29027): 	at ajkq.a(PG:23)
+09-24 20:49:50.346 W/YouTube (29027): 	at ajkq.b(PG:23)
+09-24 20:49:50.346 W/YouTube (29027): 	at fce.run(PG:326)
+09-24 20:49:50.346 W/YouTube (29027): 	at atgn.run(PG:25)
+09-24 20:49:50.346 W/YouTube (29027): 	at atgn.run(PG:25)
+09-24 20:49:50.346 W/YouTube (29027): 	at auss.run(PG:11)
+09-24 20:49:50.346 W/YouTube (29027): 	at aust.run(PG:203)
+09-24 20:49:50.346 W/YouTube (29027): 	at tej.run(PG:7)
+09-24 20:49:50.346 W/YouTube (29027): 	at aulh.run(PG:44)
+09-24 20:49:50.346 W/YouTube (29027): 	at tmt.run(PG:745)
+09-24 20:49:50.346 W/YouTube (29027): 	at fce.run(PG:1102)
+09-24 20:49:50.346 W/YouTube (29027): 	at java.lang.Thread.run(Thread.java:1012)
+09-24 20:49:50.346 W/YouTube (29027): 	at tfe.run(PG:61)
+09-24 20:49:50.352 D/GmsDummySvc( 2494): bound by: GetServiceRequest[GOOGLE_AUTH_AANG, packageName="app.morphe.android.youtube", gmsVersion=261405000, scopes=[], extras=Bundle[{}], defaultFeatures=[], apiFeatures=[Feature[google_auth_api,1], Feature[sync_account_state_api,1], Feature[embedded_reauth,1], Feature[remove_account_api,1]], supportsConnectionInfo=true]
+09-24 20:49:50.352 W/AxMediaRouter(29027): Ignoring attempt to select selected route: MediaRouter.RouteInfo{ uniqueId=DEFAULT_ROUTE, name=Phone, description=null, iconUri=null, enabled=true, isSystemRoute=true, connectionState=0, canDisconnect=false, playbackType=0, playbackStream=3, deviceType=0, volumeHandling=1, volume=5, volumeMax=15, presentationDisplayId=-1, extras=null, settingsIntent=null, providerPackageName=android }
+09-24 20:49:50.352 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:50.352 V/MediaRouter(29027): Selecting route: RouteInfo{ name=Phone, description=null, status=null, category=RouteCategory{ name=System types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+09-24 20:49:50.352 D/GmsAuthManagerSvc( 2494): getToken: account:rudrakshkhanna.ourtapes@gmail.com scope:oauth2:https://www.googleapis.com/auth/accounts.reauth https://www.googleapis.com/auth/youtube.force-ssl https://www.googleapis.com/auth/youtube https://www.googleapis.com/auth/identity.lateimpersonation extras:Bundle[{androidPackageName=app.morphe.android.youtube, clientPackageName=app.morphe.android.youtube, service_connection_start_time_millis=6999905, handle_notification=true}], notify: true
+09-24 20:49:50.356 D/CompatibilityChangeReporter(29027): Compat change id reported: 147600208; UID 10088; state: ENABLED
+09-24 20:49:50.417 D/GmsIcingLightIndexSvc( 2494): onBind: Intent { act=app.revanced.android.gms.icing.LIGHTWEIGHT_INDEX_SERVICE pkg=app.revanced.android.gms }
+09-24 20:49:50.419 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:50.419 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:50.419 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:50.419 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:50.420 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:50.420 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:50.420 D/GmsDummySvc( 2494): bound by: GetServiceRequest[GOOGLE_AUTH_AANG, packageName="app.morphe.android.youtube", gmsVersion=261405000, scopes=[], extras=Bundle[{}], defaultFeatures=[], apiFeatures=[Feature[google_auth_api,1], Feature[sync_account_state_api,1], Feature[embedded_reauth,1], Feature[remove_account_api,1]], supportsConnectionInfo=true]
+09-24 20:49:50.421 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:50.421 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:50.421 D/GmsIcingLightIndexSvc( 2494): bound by: GetServiceRequest[LIGHT_INDEX, packageName="app.morphe.android.youtube", gmsVersion=261405000, scopes=[], extras=Bundle[{}], defaultFeatures=[], apiFeatures=[], supportsConnectionInfo=true]
+09-24 20:49:50.422 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:50.422 D/GmsIcingIndexSvc( 2494): onBind: Intent { act=com.google.android.gms.icing.APP_INDEXING_SERVICE pkg=app.revanced.android.gms }
+09-24 20:49:50.423 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:50.423 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:50.423 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:50.424 D/GmsServiceBroker( 2494): Service not supported: GetServiceRequest[APP_INDEXING, packageName="app.morphe.android.youtube", gmsVersion=261405000, scopes=[], extras=Bundle[EMPTY_PARCEL], defaultFeatures=[], apiFeatures=[], supportsConnectionInfo=true]
+09-24 20:49:50.424 W/GmsClient(29027): IGmsServiceBroker.getService failed
+09-24 20:49:50.424 W/GmsClient(29027): java.lang.IllegalArgumentException: Service not supported: 113
+09-24 20:49:50.424 W/GmsClient(29027): 	at android.os.Parcel.createExceptionOrNull(Parcel.java:3061)
+09-24 20:49:50.424 W/GmsClient(29027): 	at android.os.Parcel.createException(Parcel.java:3041)
+09-24 20:49:50.424 W/GmsClient(29027): 	at android.os.Parcel.readException(Parcel.java:3024)
+09-24 20:49:50.424 W/GmsClient(29027): 	at android.os.Parcel.readException(Parcel.java:2966)
+09-24 20:49:50.424 W/GmsClient(29027): 	at rgy.A(PG:211)
+09-24 20:49:50.424 W/GmsClient(29027): 	at pun.run(PG:565)
+09-24 20:49:50.424 W/GmsClient(29027): 	at android.os.Handler.handleCallback(Handler.java:958)
+09-24 20:49:50.424 W/GmsClient(29027): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+09-24 20:49:50.424 W/GmsClient(29027): 	at android.os.Looper.loopOnce(Looper.java:205)
+09-24 20:49:50.424 W/GmsClient(29027): 	at android.os.Looper.loop(Looper.java:294)
+09-24 20:49:50.424 W/GmsClient(29027): 	at android.os.HandlerThread.run(HandlerThread.java:67)
+09-24 20:49:50.428 D/GmsHttpFormClient( 2494): androidId=3993ea10623eb36d&app=app.revanced.android.gms&client_sig=38918a453d07199354f8b19af05ec6562ced5788&callerPkg=app.revanced.android.gms&callerSig=38918a453d07199354f8b19af05ec6562ced5788&device_country=us&Email=rudrakshkhanna.ourtapes%40gmail.com&google_play_services_version=255070000&lang=en_US&operatorCountry=us&sdk_version=34&service=oauth2%3Ahttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faccount.capabilities%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faccount.service_flags&source=android&Token=aas_et%2FAKppINaoPfqAYLWTDeApOgsecoTWVbwvi0KMDJkt1Lqk-RxXlyKhIlwBweepVavQOEWNt8DBY8gp51_NVdjc_L6pvHpYVwPD8J5q0ucTTVdfnvtKeCgw7HUdh3yMTUmZdUrAkcerOaiTLvix2VeCeZIL04gOWLDHapg0qW5Vi_0lflsmatpdjxfJDcjl0tSOUHJ4fNaU48s0LUw1ieY5o4E%3D
+09-24 20:49:50.536 D/GmsHttpFormClient( 2494): androidId=3993ea10623eb36d&app=app.revanced.android.gms&client_sig=38918a453d07199354f8b19af05ec6562ced5788&callerPkg=app.revanced.android.gms&callerSig=38918a453d07199354f8b19af05ec6562ced5788&device_country=us&Email=rudrakshkhanna.ourtapes%40gmail.com&google_play_services_version=255070000&lang=en_US&operatorCountry=us&sdk_version=34&service=oauth2%3Ahttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faccount.capabilities%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faccount.service_flags&source=android&Token=aas_et%2FAKppINaoPfqAYLWTDeApOgsecoTWVbwvi0KMDJkt1Lqk-RxXlyKhIlwBweepVavQOEWNt8DBY8gp51_NVdjc_L6pvHpYVwPD8J5q0ucTTVdfnvtKeCgw7HUdh3yMTUmZdUrAkcerOaiTLvix2VeCeZIL04gOWLDHapg0qW5Vi_0lflsmatpdjxfJDcjl0tSOUHJ4fNaU48s0LUw1ieY5o4E%3D
+09-24 20:49:50.550 D/CoreBackPreview(  305): Window{2785f92 u0 app.morphe.android.youtube/app.morphe.android.youtube.morphe_black_1}: Setting back callback OnBackInvokedCallbackInfo{mCallback=android.window.IOnBackInvokedCallback$Stub$Proxy@173283e, mPriority=0, mIsAnimationCallback=false}
+09-24 20:49:50.591 D/libEGL  (29027): dlopen (libGLESv2_angle.so) success at 0xe69fa1dc537845b3
+09-24 20:49:50.605 W/View    (29027): requestLayout() improperly called by android.widget.FrameLayout{93d963e V.E...... ......ID 0,0-720,1184 #7f0b0dc8 app:id/pane_fragment_container} during layout: running second layout pass
+09-24 20:49:50.650 W/YT.MDX.BaseBackgroundSc(29027): Client LivingRoomNotificationRequestManager attempted to notify configuration change when it hasn't been registered.
+09-24 20:49:50.650 W/YT.MDX.BaseBackgroundSc(29027): Client LivingRoomNotificationRevokeManager attempted to notify configuration change when it hasn't been registered.
+09-24 20:49:50.661 D/GmsHttpFormClient( 2494): androidId=3993ea10623eb36d&app=app.revanced.android.gms&client_sig=38918a453d07199354f8b19af05ec6562ced5788&callerPkg=app.revanced.android.gms&callerSig=38918a453d07199354f8b19af05ec6562ced5788&device_country=us&Email=rudrakshkhanna.ourtapes%40gmail.com&google_play_services_version=255070000&lang=en_US&operatorCountry=us&sdk_version=34&service=oauth2%3Ahttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faccount.capabilities%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faccount.service_flags&source=android&Token=aas_et%2FAKppINaoPfqAYLWTDeApOgsecoTWVbwvi0KMDJkt1Lqk-RxXlyKhIlwBweepVavQOEWNt8DBY8gp51_NVdjc_L6pvHpYVwPD8J5q0ucTTVdfnvtKeCgw7HUdh3yMTUmZdUrAkcerOaiTLvix2VeCeZIL04gOWLDHapg0qW5Vi_0lflsmatpdjxfJDcjl0tSOUHJ4fNaU48s0LUw1ieY5o4E%3D
+09-24 20:49:50.784 D/GmsHttpFormClient( 2494): androidId=3993ea10623eb36d&app=app.revanced.android.gms&client_sig=38918a453d07199354f8b19af05ec6562ced5788&callerPkg=app.revanced.android.gms&callerSig=38918a453d07199354f8b19af05ec6562ced5788&device_country=us&Email=rudrakshkhanna.ourtapes%40gmail.com&google_play_services_version=255070000&lang=en_US&operatorCountry=us&sdk_version=34&service=oauth2%3Ahttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faccount.capabilities%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faccount.service_flags&source=android&Token=aas_et%2FAKppINaoPfqAYLWTDeApOgsecoTWVbwvi0KMDJkt1Lqk-RxXlyKhIlwBweepVavQOEWNt8DBY8gp51_NVdjc_L6pvHpYVwPD8J5q0ucTTVdfnvtKeCgw7HUdh3yMTUmZdUrAkcerOaiTLvix2VeCeZIL04gOWLDHapg0qW5Vi_0lflsmatpdjxfJDcjl0tSOUHJ4fNaU48s0LUw1ieY5o4E%3D
+09-24 20:49:50.817 D/vulkan  (29027): searching for layers in '/data/app/~~Q0tuadpYVfccbRPVrSsx9A==/app.morphe.android.youtube-Q9bGUjFv0R5QmYfw4IxekQ==/lib/arm64'
+09-24 20:49:50.820 D/vulkan  (29027): searching for layers in '/data/app/~~Q0tuadpYVfccbRPVrSsx9A==/app.morphe.android.youtube-Q9bGUjFv0R5QmYfw4IxekQ==/base.apk!/lib/arm64-v8a'
+09-24 20:49:50.822 W/libEGL  (29027): ANGLE Warn:vulkan_icd.cpp:346 (ChoosePhysicalDevice): Preferred device ICD not found. Using default physicalDevice instead.
+09-24 20:49:50.824 W/SwiftShader(29027): external/swiftshader/src/Vulkan/VkPhysicalDevice.cpp:649 WARNING: UNSUPPORTED: curExtension->sType: 1000338000
+09-24 20:49:50.825 W/SwiftShader(29027): external/swiftshader/src/Vulkan/VkPhysicalDevice.cpp:649 WARNING: UNSUPPORTED: curExtension->sType: 1000437000
+09-24 20:49:50.825 W/SwiftShader(29027): external/swiftshader/src/Vulkan/VkPhysicalDevice.cpp:649 WARNING: UNSUPPORTED: curExtension->sType: 1000338000
+09-24 20:49:50.825 W/SwiftShader(29027): external/swiftshader/src/Vulkan/VkPhysicalDevice.cpp:649 WARNING: UNSUPPORTED: curExtension->sType: 1000437000
+09-24 20:49:50.825 W/SwiftShader(29027): external/swiftshader/src/Vulkan/VkPhysicalDevice.cpp:649 WARNING: UNSUPPORTED: curExtension->sType: 1000338000
+09-24 20:49:50.825 W/SwiftShader(29027): external/swiftshader/src/Vulkan/VkPhysicalDevice.cpp:649 WARNING: UNSUPPORTED: curExtension->sType: 1000437000
+09-24 20:49:50.825 W/SwiftShader(29027): external/swiftshader/src/Vulkan/VkPhysicalDevice.cpp:649 WARNING: UNSUPPORTED: curExtension->sType: 1000338000
+09-24 20:49:50.825 W/SwiftShader(29027): external/swiftshader/src/Vulkan/VkPhysicalDevice.cpp:649 WARNING: UNSUPPORTED: curExtension->sType: 1000437000
+09-24 20:49:50.827 W/SwiftShader(29027): external/swiftshader/src/Vulkan/VkPhysicalDevice.cpp:649 WARNING: UNSUPPORTED: curExtension->sType: 1000338000
+09-24 20:49:50.827 W/SwiftShader(29027): external/swiftshader/src/Vulkan/VkPhysicalDevice.cpp:649 WARNING: UNSUPPORTED: curExtension->sType: 1000437000
+09-24 20:49:50.827 W/SwiftShader(29027): external/swiftshader/src/Vulkan/VkPhysicalDevice.cpp:649 WARNING: UNSUPPORTED: curExtension->sType: 1000338000
+09-24 20:49:50.827 W/SwiftShader(29027): external/swiftshader/src/Vulkan/VkPhysicalDevice.cpp:649 WARNING: UNSUPPORTED: curExtension->sType: 1000437000
+09-24 20:49:50.828 W/SwiftShader(29027): external/swiftshader/src/Vulkan/VkPhysicalDevice.cpp:649 WARNING: UNSUPPORTED: curExtension->sType: 1000338000
+09-24 20:49:50.828 W/SwiftShader(29027): external/swiftshader/src/Vulkan/VkPhysicalDevice.cpp:649 WARNING: UNSUPPORTED: curExtension->sType: 1000437000
+09-24 20:49:50.828 W/SwiftShader(29027): external/swiftshader/src/Vulkan/VkPhysicalDevice.cpp:649 WARNING: UNSUPPORTED: curExtension->sType: 1000338000
+09-24 20:49:50.828 W/SwiftShader(29027): external/swiftshader/src/Vulkan/VkPhysicalDevice.cpp:649 WARNING: UNSUPPORTED: curExtension->sType: 1000437000
+09-24 20:49:50.840 I/Gralloc4(29027): mapper 4.x is not supported
+09-24 20:49:50.841 W/Gralloc3(29027): mapper 3.x is not supported
+09-24 20:49:50.850 E/GraphicBufferAllocator(29027): Failed to allocate (4 x 4) layerCount 1 format 43 usage b00: 3
+09-24 20:49:50.850 E/AHardwareBuffer(29027): GraphicBuffer(w=4, h=4, lc=1) failed (Unknown error -3), handle=0x0
+09-24 20:49:50.850 E/GraphicBufferAllocator(29027): Failed to allocate (4 x 4) layerCount 1 format 56 usage b00: 3
+09-24 20:49:50.850 E/AHardwareBuffer(29027): GraphicBuffer(w=4, h=4, lc=1) failed (Unknown error -3), handle=0x0
+09-24 20:49:50.850 E/GraphicBufferAllocator(29027): Failed to allocate (4 x 4) layerCount 1 format 59 usage b00: 3
+09-24 20:49:50.850 E/AHardwareBuffer(29027): GraphicBuffer(w=4, h=4, lc=1) failed (Unknown error -3), handle=0x0
+09-24 20:49:50.851 E/GraphicBufferAllocator(29027): Failed to allocate (4 x 4) layerCount 1 format 43 usage b00: 3
+09-24 20:49:50.852 E/AHardwareBuffer(29027): GraphicBuffer(w=4, h=4, lc=1) failed (Unknown error -3), handle=0x0
+09-24 20:49:50.852 E/GraphicBufferAllocator(29027): Failed to allocate (4 x 4) layerCount 1 format 56 usage b00: 3
+09-24 20:49:50.852 E/AHardwareBuffer(29027): GraphicBuffer(w=4, h=4, lc=1) failed (Unknown error -3), handle=0x0
+09-24 20:49:50.852 E/GraphicBufferAllocator(29027): Failed to allocate (4 x 4) layerCount 1 format 59 usage b00: 3
+09-24 20:49:50.852 E/AHardwareBuffer(29027): GraphicBuffer(w=4, h=4, lc=1) failed (Unknown error -3), handle=0x0
+09-24 20:49:50.852 I/ANGLE   (29027): Version (2.1.1 git hash: 35552d8fca88), Renderer (Vulkan 1.3.0 (SwiftShader Device (LLVM 10.0.0) (0x0000C0DE)))
+09-24 20:49:50.853 W/OpenGLRenderer(29027): Failed to initialize 101010-2 format, error = EGL_SUCCESS
+09-24 20:49:50.870 E/OpenGLRenderer(29027): Unable to match the desired swap behavior.
+09-24 20:49:50.893 I/morphe: GmsCoreSupportPatch(29027): Could not check MicroG update: java.net.SocketException: Broken pipe
+09-24 20:49:51.617 E/SurfaceSyncGroup(29027): Failed to receive transaction ready in 1000ms. Marking SurfaceSyncGroup(wmsSync-VRI[morphe_black_1]#0) as ready
+09-24 20:49:51.617 E/SurfaceSyncGroup(29027): Failed to receive transaction ready in 1000ms. Marking SurfaceSyncGroup(VRI[morphe_black_1]#1) as ready
+09-24 20:49:52.225 W/system_server(  305): Failed to determine oat file name for dex location /data/app/~~Q0tuadpYVfccbRPVrSsx9A==/app.morphe.android.youtube-Q9bGUjFv0R5QmYfw4IxekQ==/base.apk: Dalvik cache directory does not exist
+09-24 20:49:52.225 W/ziparchive(  305): Unable to open '/data/app/~~Q0tuadpYVfccbRPVrSsx9A==/app.morphe.android.youtube-Q9bGUjFv0R5QmYfw4IxekQ==/base.dm': No such file or directory
+09-24 20:49:52.229 I/ActivityTaskManager(  305): Displayed app.morphe.android.youtube/.morphe_black_1 for user 0: +16s162ms
+09-24 20:49:52.240 D/MeasurementService( 2494): sendAppLaunch() for AppMetadata[app.morphe.android.youtube]
+09-24 20:49:52.250 I/Choreographer(29027): Skipped 51 frames!  The application may be doing too much work on its main thread.
+09-24 20:49:52.312 I/OpenGLRenderer(29027): Davey! duration=2171ms; Flags=1, FrameTimelineVsyncId=85096, IntendedVsync=6999603967516, Vsync=7000070634178, InputEventId=0, HandleInputStart=7000076423253, AnimationStart=7000076424253, PerformTraversalsStart=7000076664447, DrawStart=7000425451106, FrameDeadline=6999637300849, FrameInterval=7000075906864, FrameStartTime=33333333, SyncQueued=7000439080312, SyncStart=7000439242508, IssueDrawCommandsStart=7000442080747, SwapBuffers=7000529337160, FrameCompleted=7001775572419, DequeueBufferDuration=0, QueueBufferDuration=855781, GpuCompleted=7000529337160, SwapBuffersCompleted=7001775572419, DisplayPresentTime=0, CommandSubmissionCompleted=7000529337160, 
+09-24 20:49:52.392 D/MeasurementService( 2494): getAppInstanceId() for AppMetadata[app.morphe.android.youtube]
+09-24 20:49:52.394 D/MeasurementService( 2494): sendDefaultEventParameters(Bundle[mParcelledData.dataSize=52]) for AppMetadata[app.morphe.android.youtube]
+09-24 20:49:52.397 D/MeasurementService( 2494): sendMeasurementEnabled() for AppMetadata[app.morphe.android.youtube]
+09-24 20:49:52.398 D/MeasurementService( 2494): sendDefaultEventParameters(Bundle[mParcelledData.dataSize=52]) for AppMetadata[app.morphe.android.youtube]
+09-24 20:49:52.399 D/MeasurementService( 2494): sendCurrentScreen(-6778424329222009491, null, MainActivity, app.morphe.android.youtube)
+09-24 20:49:52.419 W/YTPL.audiomanager(29027): AudioFocus WindowFocusChanged, windowFocusType=FULL
+09-24 20:49:52.427 I/ImeTracker(  305): app.morphe.android.youtube:229cc6b0: onRequestHide at ORIGIN_SERVER_HIDE_INPUT reason HIDE_UNSPECIFIED_WINDOW
+09-24 20:49:52.427 I/ImeTracker(  305): app.morphe.android.youtube:229cc6b0: onCancelled at PHASE_SERVER_SHOULD_HIDE
+09-24 20:49:52.440 W/JobScheduler(  305): Job didn't exist in JobStore: de1dcf6 {androidx.work.systemjobscheduler} #u0a88/57 @androidx.work.systemjobscheduler@app.morphe.android.youtube/androidx.work.impl.background.systemjob.SystemJobService
+09-24 20:49:52.452 I/OpenGLRenderer(29027): Davey! duration=1853ms; Flags=0, FrameTimelineVsyncId=85115, IntendedVsync=7000103967511, Vsync=7001803967494, InputEventId=0, HandleInputStart=7001804748488, AnimationStart=7001804749188, PerformTraversalsStart=7001805736167, DrawStart=7001809164092, FrameDeadline=7000570634173, FrameInterval=7001804361396, FrameStartTime=33333333, SyncQueued=7001809461786, SyncStart=7001809516985, IssueDrawCommandsStart=7001809714281, SwapBuffers=7001816130342, FrameCompleted=7001957617283, DequeueBufferDuration=11399, QueueBufferDuration=354793, GpuCompleted=7001816130342, SwapBuffersCompleted=7001957617283, DisplayPresentTime=0, CommandSubmissionCompleted=7001816130342, 
+09-24 20:49:52.688 D/CoreBackPreview(  305): Window{50ddaaa u0 Splash Screen app.morphe.android.youtube EXITING}: Setting back callback null
+09-24 20:49:52.689 W/InputManager-JNI(  305): Input channel object '50ddaaa Splash Screen app.morphe.android.youtube (client)' was disposed without first being removed with the input manager!
+09-24 20:49:53.055 D/GmsDummySvc( 2494): bound by: GetServiceRequest[GOOGLE_AUTH_AANG, packageName="app.morphe.android.youtube", gmsVersion=261405000, scopes=[], extras=Bundle[{}], defaultFeatures=[], apiFeatures=[Feature[google_auth_api,1], Feature[sync_account_state_api,1], Feature[embedded_reauth,1], Feature[remove_account_api,1]], supportsConnectionInfo=true]
+09-24 20:49:53.057 D/GmsDummySvc( 2494): bound by: GetServiceRequest[GOOGLE_AUTH_AANG, packageName="app.morphe.android.youtube", gmsVersion=261405000, scopes=[], extras=Bundle[{}], defaultFeatures=[], apiFeatures=[Feature[google_auth_api,1], Feature[sync_account_state_api,1], Feature[embedded_reauth,1], Feature[remove_account_api,1]], supportsConnectionInfo=true]
+09-24 20:49:53.059 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:53.059 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:53.060 D/GmsDummySvc( 2494): bound by: GetServiceRequest[GOOGLE_AUTH_AANG, packageName="app.morphe.android.youtube", gmsVersion=261405000, scopes=[], extras=Bundle[{}], defaultFeatures=[], apiFeatures=[Feature[google_auth_api,1], Feature[sync_account_state_api,1], Feature[embedded_reauth,1], Feature[remove_account_api,1]], supportsConnectionInfo=true]
+09-24 20:49:53.060 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:53.060 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:53.063 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:53.064 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:53.064 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:53.064 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:53.064 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:53.067 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:53.069 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:53.069 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:53.073 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:53.074 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:53.075 I/SpoofUtils( 2494): package name of app.morphe.android.youtube spoofed to com.google.android.youtube
+09-24 20:49:53.083 D/GmsHttpFormClient( 2494): androidId=3993ea10623eb36d&app=app.revanced.android.gms&client_sig=38918a453d07199354f8b19af05ec6562ced5788&callerPkg=app.revanced.android.gms&callerSig=38918a453d07199354f8b19af05ec6562ced5788&device_country=us&Email=rudrakshkhanna.ourtapes%40gmail.com&google_play_services_version=255070000&lang=en_US&operatorCountry=us&sdk_version=34&service=oauth2%3Ahttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faccount.capabilities%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faccount.service_flags&source=android&Token=aas_et%2FAKppINaoPfqAYLWTDeApOgsecoTWVbwvi0KMDJkt1Lqk-RxXlyKhIlwBweepVavQOEWNt8DBY8gp51_NVdjc_L6pvHpYVwPD8J5q0ucTTVdfnvtKeCgw7HUdh3yMTUmZdUrAkcerOaiTLvix2VeCeZIL04gOWLDHapg0qW5Vi_0lflsmatpdjxfJDcjl0tSOUHJ4fNaU48s0LUw1ieY5o4E%3D
+09-24 20:49:53.197 D/GmsHttpFormClient( 2494): androidId=3993ea10623eb36d&app=app.revanced.android.gms&client_sig=38918a453d07199354f8b19af05ec6562ced5788&callerPkg=app.revanced.android.gms&callerSig=38918a453d07199354f8b19af05ec6562ced5788&device_country=us&Email=rudrakshkhanna.ourtapes%40gmail.com&google_play_services_version=255070000&lang=en_US&operatorCountry=us&sdk_version=34&service=oauth2%3Ahttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faccount.capabilities%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faccount.service_flags&source=android&Token=aas_et%2FAKppINaoPfqAYLWTDeApOgsecoTWVbwvi0KMDJkt1Lqk-RxXlyKhIlwBweepVavQOEWNt8DBY8gp51_NVdjc_L6pvHpYVwPD8J5q0ucTTVdfnvtKeCgw7HUdh3yMTUmZdUrAkcerOaiTLvix2VeCeZIL04gOWLDHapg0qW5Vi_0lflsmatpdjxfJDcjl0tSOUHJ4fNaU48s0LUw1ieY5o4E%3D
+09-24 20:49:53.314 D/GmsHttpFormClient( 2494): androidId=3993ea10623eb36d&app=app.revanced.android.gms&client_sig=38918a453d07199354f8b19af05ec6562ced5788&callerPkg=app.revanced.android.gms&callerSig=38918a453d07199354f8b19af05ec6562ced5788&device_country=us&Email=rudrakshkhanna.ourtapes%40gmail.com&google_play_services_version=255070000&lang=en_US&operatorCountry=us&sdk_version=34&service=oauth2%3Ahttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faccount.capabilities%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faccount.service_flags&source=android&Token=aas_et%2FAKppINaoPfqAYLWTDeApOgsecoTWVbwvi0KMDJkt1Lqk-RxXlyKhIlwBweepVavQOEWNt8DBY8gp51_NVdjc_L6pvHpYVwPD8J5q0ucTTVdfnvtKeCgw7HUdh3yMTUmZdUrAkcerOaiTLvix2VeCeZIL04gOWLDHapg0qW5Vi_0lflsmatpdjxfJDcjl0tSOUHJ4fNaU48s0LUw1ieY5o4E%3D
